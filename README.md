@@ -43,6 +43,3 @@ As imagens e ícones estão organizados na pasta `assets` para uso no site, repr
 
 💡 **Este projeto foi uma ótima experiência para consolidar conhecimentos básicos de desenvolvimento front-end e explorar técnicas para criar sites mais interativos e visualmente atrativos.**
 
----
-
-👩‍💻 Feito com 💖 por [Joana Santos].  
